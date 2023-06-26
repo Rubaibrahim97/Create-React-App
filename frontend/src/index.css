@@ -9,7 +9,6 @@ body {
 .site-container {
   min-height: 100vh;
 }
-
 main {
   flex: 1;
 }
@@ -18,7 +17,6 @@ main {
   background-color: #f0c040;
   color: #000000;
 }
-
 .products {
   display: flex;
   flex-wrap: wrap;
@@ -33,7 +31,6 @@ main {
   border: 1px #404040 solid;
   margin: 1rem;
 }
-
 .product img {
   width: 100%;
   max-width: 400px;
@@ -50,6 +47,7 @@ main {
 .small-container {
   max-width: 600px;
 }
+
 .checkout-steps > div {
   border-bottom: 0.2rem solid #a0a0a0;
   color: #a0a0a0;
