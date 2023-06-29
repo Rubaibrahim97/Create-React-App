@@ -131,11 +131,4 @@
     2. show user information
     3. create user update api
     4. update user info
-32. Publish To render.com
-    1. create and config node project
-    2. serve build folder in frontend folder
-    3. Create render account
-    4. connect it to github
-    5. Create mongodb atlas database
-    6. Set database connection in render.com env variables
-    7. Commit and push
+32. Publish To render.com 1. create and config node project 2. serve build folder in frontend folder 3. Create render account 4. connect it to github 5. Create mongodb atlas database 6. Set database connection in render.com env variables 7. Commit and push
