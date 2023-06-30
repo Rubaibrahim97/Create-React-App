@@ -2,7 +2,7 @@
 
 1. To run the project:
 
-   1. In new terminal, to connect the database, follow the steps bellow:
+   1. In a new terminal, to connect the database, follow the steps bellow:
       cd backend
       npm start
       ----> serve at http://localhost:5000
@@ -12,12 +12,12 @@
       npm start
       ----> localhost:3000
 
-2. I'm using MongoDB, this link contain my database, also you can found it on "data.js" file in backend as initial data:
+2. I'm using MongoDB, this link contains my database, also you can find it on "data.js" file in the backend as an initial data:
 
    https://drive.google.com/drive/folders/1kE01lRhW3X9p8sX6Bc9o1BaawGDo8xmo?usp=sharing
 
-   Use this data to test the project:
-   As Admine:
+   Use these cradentials below to test the project:
+   As Admin:
    email:admin@example.com
    password: 123456
 
