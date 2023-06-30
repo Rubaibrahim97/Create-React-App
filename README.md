@@ -2,7 +2,7 @@
 
 1. To run the project:
 
-   1. In new termina, to connect the database, follow the steps bellow:
+   1. In new terminal, to connect the database, follow the steps bellow:
       cd backend
       npm start
       ----> serve at http://localhost:5000
